@@ -2837,7 +2837,7 @@ export var GameType = {
 		color: "var(--capturecolor)",
 		description: "Be the first to form an eclipse with the celestial tiles",
 		coverImg: "lotus.png",
-		rulesUrl: "https://docs.google.com/document/d/1tCrQ4t0m_Hf994eZNwroFuNvqTBRJAmUsLM3ptr2J2w/edit?usp=sharing",
+		rulesUrl: "https://drive.google.com/file/d/1kpIt_rjm1g4HYEewWSDCySz9tc_0qBo7/view?usp=sharing",
 		gameOptions: []
 	},
 	Playground: {
